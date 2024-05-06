@@ -13,3 +13,13 @@ let myInfo = {
     /* other properties not shown */
    };
    printContact(myInfo);
+
+   let myInfo2 = {
+    name: "Debbie Doolie", 
+    address: "1809 Main Street",
+    city: "Haines City",
+    state: "Florida",
+    zip: "33823",
+    /* other properties not shown */
+   };
+   printContact(myInfo2);
